@@ -2,16 +2,17 @@
 A set of 3 programs developed in Python which use sorting algorithms to sort a strip of random colours into an organised order.
 
 The following was the assignment:
-“Welcome! You’re our new employee, right? You should already know that our company specialises in software for editing and managing
-large collections of photographs. Some of our valued customers want to be able to browse their photograph collection in a visually
-pleasing fashion with similar coloured photographs following each other.
-We are not really sure what that means but you can interpret that as having some ordering on the dominant colour of consecutive 
-photographs. You have a month to prototype some ideas and report your results. 
+
+“Welcome! You’re our new employee, right? You should already know that our company specialises in software for editing and 
+managing large collections of photographs. Some of our valued customers want to be able to browse their photograph collection in a 
+visually pleasing fashion with similar coloured photographs following each other. We are not really sure what that means but you 
+can interpret that as having some ordering on the dominant colour of consecutive photographs. You have a month to prototype some 
+ideas and report your results. 
 
 Colours used in computer graphics are based on a particular model.  The model you pick depends on the range of colours you need in
-a graphic and whether it is going to be output to print media or to screen. There are various colour models available. Some examples
-are:  Black & White, Grayscale, RGB (Red, Green and Blue), CMYK (Cyan, Magenta, Yellow and Black),  and HSB (Hue, Saturation & 
-Brightness).
+a graphic and whether it is going to be output to print media or to screen. There are various colour models available. Some 
+examples are:  Black & White, Grayscale, RGB (Red, Green and Blue), CMYK (Cyan, Magenta, Yellow and Black),  and HSB (Hue, 
+Saturation & Brightness).
 
 In this assignment, we will consider the RGB (Links to an external site.) model. Red, green, and blue can be combined in various
 proportions to obtain any colour in the visible spectrum.  In our representation R, G, B can each range from 0 to 1. Where 0 
