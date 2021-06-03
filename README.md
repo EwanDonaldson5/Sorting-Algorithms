@@ -1,5 +1,7 @@
 # Sorting-Algorithms
-A set of 3 programs developed in Python which use sorting algorithms to sort a strip of random colours into an organised order.
+This was a university assignmnet set during an "Artificial Inteligence" module. 
+A set of 3 programs were to be developed in Python using sorting algorithms to sort a strip of random colours into an organised 
+order.
 
 The following was the assignment:
 
